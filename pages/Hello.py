@@ -2,7 +2,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Hello",
+    page_title="MWD: Intrepid Field App",
     page_icon="👋",
 )
 
